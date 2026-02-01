@@ -1,0 +1,1 @@
+potential-interval>=5.2.0
